@@ -1,2 +1,1 @@
-# cunam75
-that's my profile
+## hello word! I'm muhammad abdul farid 
